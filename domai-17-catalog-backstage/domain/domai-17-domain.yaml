@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: domai-17
+  description: Everything related to domai-17
+  title: domai-17 Domain
+  links:
+    - url: http://example.com/domain/example/
+      title: Domain Readme
+    - url: http://example.com/domains/example/dashboard
+      title: Domain Metrics Dashboard
+      icon: dashboard
+spec:
+  owner: user@stefanini.com
